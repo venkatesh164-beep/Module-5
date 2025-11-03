@@ -29,4 +29,4 @@ area = math.pi * (radius ** 2)
 <img width="1216" height="337" alt="image" src="https://github.com/user-attachments/assets/492ccb66-a977-41f2-8ff8-f845b3a25d8c" />
 
 ## Result
-Thus,the program has been executed successfully
+Thus,the program has been executed successfully.
